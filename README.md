@@ -3,4 +3,4 @@
 ## NABILATOU(22B791FS) Conception
 ## TOGUEM NARCISSE (21A244FS) Conception
 ## MARIAM ADOUM IDRISS (21A242FS) Implementation
-## YOGUEURNAN MERLIN (21A387) Implementation
+## YOGUERNAN MERLIN (21A387) Implementation
